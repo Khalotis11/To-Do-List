@@ -1,3 +1,21 @@
 .App {
   text-align: center;
+  width: 700px;
+  margin: 0 auto;
+}
+h2 {
+  background-color: #d54642;
+  color: white;
+  font-size: 70px;
+}
+input {
+  padding: 10px 80px;
+  font-size: 30px;
+}
+button {
+  padding: 20px 80px;
+  margin-top: 20px;
+  font-size: 20px;
+  background-color: #fdd041;
+  color: gray;
 }
